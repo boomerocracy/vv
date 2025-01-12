@@ -1,8 +1,8 @@
-  - DOMAIN-SUFFIX,m-team.cc
-  - DOMAIN-SUFFIX,kp.m-team.cc  
-  - DOMAIN-SUFFIX,m-team.io
-  - DOMAIN-SUFFIX,audiences.me  
-  - DOMAIN-SUFFIX,btschool.club
-  - DOMAIN-SUFFIX,jpopsuki.eu  
-  - DOMAIN-SUFFIX,et8.org  
-  - DOMAIN-SUFFIX,open.cd
+DOMAIN-SUFFIX,m-team.cc
+DOMAIN-SUFFIX,kp.m-team.cc  
+DOMAIN-SUFFIX,m-team.io
+DOMAIN-SUFFIX,audiences.me  
+DOMAIN-SUFFIX,btschool.club
+DOMAIN-SUFFIX,jpopsuki.eu  
+DOMAIN-SUFFIX,et8.org  
+DOMAIN-SUFFIX,open.cd
