@@ -1,5 +1,7 @@
 PROCESS-NAME,Battle.net.exe
 PROCESS-NAME,Diablo IV.exe
 PROCESS-NAME,Agent.exe
-#PROCESS-NAME,steam.exe
-steamserver.net
+PROCESS-NAME,steam.exe
+DOMAIN-SUFFIX,steamserver.net
+DOMAIN-SUFFIX,gdtstream.com
+DOMAIN-SUFFIX,steam.clngaa.com
