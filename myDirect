@@ -25,6 +25,8 @@ DOMAIN-SUFFIX,greencloudvps.com
 DOMAIN-SUFFIX,oracleinfinity.io
 DOMAIN-SUFFIX,oraclecloud.com
 DOMAIN-SUFFIX,oracle.com
+DOMAIN-SUFFIX,infini-cloud.net
+DOMAIN-SUFFIX,teracloud.jp
 IP-CIDR,112.132.0.0/16
 IP-CIDR,122.190.0.0/16
 IP-CIDR,114.110.0.0/16
