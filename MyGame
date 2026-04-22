@@ -8,6 +8,8 @@ DOMAIN-SUFFIX,steam.clngaa.com
 DOMAIN-SUFFIX,battle.net
 DOMAIN-SUFFIX,blizzard.com
 DOMAIN-SUFFIX,xboxlive.com
+DOMAIN-SUFFIX,blz-contentstack.com
+
 
 IP-CIDR,34.0.96.0/19
 IP-CIDR,34.22.64.0/19
