@@ -34,9 +34,14 @@ DOMAIN-SUFFIX,apps.apple.com
 DOMAIN-SUFFIX,mypikpak.com
 DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,twimg.com
+DOMAIN-KEYWORD,-spotify-
+DOMAIN-KEYWORD,spotify.com
+DOMAIN-SUFFIX,pscdn.co
+DOMAIN-SUFFIX,scdn.co
+DOMAIN-SUFFIX,spoti.fi
 DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,spotifycdn.com
-DOMAIN-KEYWORD,spotify.com
+DOMAIN-SUFFIX,spotifycdn.net
 
 
 
