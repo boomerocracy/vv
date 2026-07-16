@@ -29,6 +29,7 @@ DOMAIN-SUFFIX,infini-cloud.net
 DOMAIN-SUFFIX,teracloud.jp
 DOMAIN-SUFFIX,green.cloud
 DOMAIN-SUFFIX,acgrip.com
+DOMAIN-SUFFIX,invite.linuxdo.org
 IP-CIDR,112.132.0.0/16
 IP-CIDR,122.190.0.0/16
 IP-CIDR,114.110.0.0/16
