@@ -12,7 +12,6 @@ DOMAIN-SUFFIX,pterclub.com
 DOMAIN-SUFFIX,audiences.me
 DOMAIN-SUFFIX,club.tgfcer.com
 DOMAIN-SUFFIX,pp.ua
-DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,nodeseek.com
 DOMAIN-SUFFIX,nodeimage.com
 DOMAIN-SUFFIX,miji.bid
@@ -28,18 +27,25 @@ DOMAIN-SUFFIX,turgame.com
 DOMAIN-SUFFIX,dropbox.com
 DOMAIN-SUFFIX,api.day.app
 DOMAIN-SUFFIX,linux.do
-DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,rfchost.com
 DOMAIN-SUFFIX,apps.apple.com
 DOMAIN-SUFFIX,mypikpak.com
-DOMAIN-SUFFIX,x.com
-DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,pscdn.co
 DOMAIN-SUFFIX,scdn.co
 DOMAIN-SUFFIX,spoti.fi
 DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,spotifycdn.com
 DOMAIN-SUFFIX,spotifycdn.net
-DOMAIN-SUFFIX,infini-cloud.net
+DOMAIN-SUFFIX,periscope.tv
+DOMAIN-SUFFIX,pscp.tv
+DOMAIN-SUFFIX,t.co
+DOMAIN-SUFFIX,twimg.co
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,twimg.org
+DOMAIN-SUFFIX,twitpic.com
+DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,twitter.jp
+DOMAIN-SUFFIX,vine.co
+DOMAIN-SUFFIX,x.com
 
 
