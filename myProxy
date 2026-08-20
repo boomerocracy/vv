@@ -49,5 +49,6 @@ DOMAIN-SUFFIX,vine.co
 DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,infini-cloud.net
 DOMAIN-SUFFIX,platform.deepseek.com
-
+DOMAIN-SUFFIX,blob.core.windows.net
+DOMAIN-SUFFIX,tts.speech.microsoft.com
 
